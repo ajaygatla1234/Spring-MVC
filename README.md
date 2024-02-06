@@ -1,1 +1,1 @@
-*** Need to Add the JAR files form Spring Libraries Folder ***
+*** Need to Add the JAR files from Spring Libraries Folder ***
